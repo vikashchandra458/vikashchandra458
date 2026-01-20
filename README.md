@@ -3,7 +3,7 @@ Senior React Native Developer with 4+ years of experience building scalable, off
 
 Experienced in developing AI-enabled and GIS-based mobile platforms, including features such as farm boundary mapping, geo-tagging, offline onboarding, crop lifecycle management, and integration of satellite-driven insights like crop health, soil moisture, and weather data.
 
-Previously contributed to multiple production-grade applications, working across React Native, React.js, Node.js, and NestJS. Hands-on experience in building real-time systems, secure payment flows, admin dashboards, and high-load backend services using PostgreSQL and MySQL.
+Previously contributed to multiple production-grade applications, working across React Native, React.js, Node.js, and NestJS. Hands-on experience in building real-time systems, secure payment flows, admin dashboards, and backend services using PostgreSQL and MySQL.
 
 Passionate about writing clean, maintainable code, collaborating closely with product and backend teams, and building reliable solutions that create measurable real-world impact.
 
