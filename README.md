@@ -79,8 +79,6 @@ React Native · Currency Exchange · Payments · Local Transfers
 
 🔗 [LinkedIn](https://linkedin.com/in/vikash-chandra-a7362917a/)
 
-💻 [GitHub](https://github.com/vikashchandra458)
-
 🌐 [Portfolio](https://resume-vikash.netlify.app/)
 
 ---
