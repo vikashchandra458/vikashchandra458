@@ -83,9 +83,6 @@ React Native · Currency Exchange · Payments · Local Transfers
 
 🌐 [Portfolio](https://resume-vikash.netlify.app/)
 
-
----
-
 ---
 
 **📊 GitHub Activity**
