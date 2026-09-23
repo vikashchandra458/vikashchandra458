@@ -1,79 +1,15 @@
-# 👋 Hi, I'm Vikash Chandra
+# 💫 About Me:
+# 👋 Hi, I'm Vikash Chandra<br><br>### Senior React Native Developer | Mobile Architecture | Offline-First | AI & GIS<br><br>Senior React Native Developer with **4+ years of experience** building production-grade mobile applications across **agriculture, fintech, crypto, government, and SaaS**.<br><br>Focused on **React Native, mobile architecture, offline-first systems, geospatial applications, performance optimization, and AI/LLM integration**.<br><br>---<br><br>## 🚀 Core Expertise<br><br>- 📱 React Native · JavaScript · TypeScript · Redux Toolkit<br>- 🏗️ Mobile Architecture · Offline-First · SQLite · Background Sync<br>- 🗺️ Mapbox · React Native Maps · Turf.js · Geospatial Workflows<br>- 🤖 OpenAI · Gemini · llama.cpp · On-Device / Offline LLM<br>- ⚙️ Node.js · NestJS · REST APIs · Socket.io<br>- 🗄️ PostgreSQL · MySQL · SQLite · Prisma · Sequelize<br>- 🔧 Kotlin · JNI · Android NDK · CMake · Native Modules<br>- 🔔 Firebase · Push Notifications · Authentication<br><br>---<br><br>## 💼 Experience Highlights<br><br>### 🌾 Agritech & GIS<br>Farm management, boundary mapping, geo-tagging, offline onboarding, crop lifecycle management, satellite insights, weather data, and AI-driven recommendations.<br><br>### 💳 Fintech & Crypto<br>Digital financial services, cryptocurrency transactions, real-time prices, coin swapping, currency exchange, payments, role-based systems, and real-time tracking.<br><br>### 🤖 AI & Mobile<br>AI chatbots, LLM API integration, offline LLM experimentation, llama.cpp, native mobile integrations, and AI-powered mobile workflows.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)<br>![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)<br>![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)<br><br>---<br><br>## 📌 Featured Work<br><br>**🌾 Krishivaas — Agricultural Intelligence**  <br>React Native · Offline-First · GIS · Crop Management · Satellite Data · AI<br><br>**💰 Digital Assets Application**  <br>React Native · 50+ Screens · Cryptocurrency · Real-Time APIs · Transactions<br><br>**🏛️ Government Digital Services**  <br>React Native · NestJS · PostgreSQL · Role-Based Access · Socket.io<br><br>**💱 Currency Exchange Application**  <br>React Native · Currency Exchange · Payments · Local Transfers<br><br>---<br><br>## 🤝 Connect<br><br>📍 Hyderabad, India<br>🔗 [LinkedIn](https://linkedin.com/in/vikash-chandra-a7362917a/)<br>💻 [GitHub](https://github.com/vikashchandra458)<br>🌐 [Portfolio](https://resume-vikash.netlify.app/)
 
-### Senior React Native Developer | Mobile Architecture | Offline-First | AI & GIS
 
-Senior React Native Developer with **4+ years of experience** building production-grade mobile applications across **agriculture, fintech, crypto, government, and SaaS**.
-
-Focused on **React Native, mobile architecture, offline-first systems, geospatial applications, performance optimization, and AI/LLM integration**.
-
----
-
-## 🚀 Core Expertise
-
-- 📱 React Native · JavaScript · TypeScript · Redux Toolkit
-- 🏗️ Mobile Architecture · Offline-First · SQLite · Background Sync
-- 🗺️ Mapbox · React Native Maps · Turf.js · Geospatial Workflows
-- 🤖 OpenAI · Gemini · llama.cpp · On-Device / Offline LLM
-- ⚙️ Node.js · NestJS · REST APIs · Socket.io
-- 🗄️ PostgreSQL · MySQL · SQLite · Prisma · Sequelize
-- 🔧 Kotlin · JNI · Android NDK · CMake · Native Modules
-- 🔔 Firebase · Push Notifications · Authentication
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vikashchandra458&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vikashchandra458&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikashchandra458&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=vikashchandra458&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Experience Highlights
-
-### 🌾 Agritech & GIS
-Farm management, boundary mapping, geo-tagging, offline onboarding, crop lifecycle management, satellite insights, weather data, and AI-driven recommendations.
-
-### 💳 Fintech & Crypto
-Digital financial services, cryptocurrency transactions, real-time prices, coin swapping, currency exchange, payments, role-based systems, and real-time tracking.
-
-### 🤖 AI & Mobile
-AI chatbots, LLM API integration, offline LLM experimentation, llama.cpp, native mobile integrations, and AI-powered mobile workflows.
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-
----
-
-## 📌 Featured Work
-
-**🌾 Krishivaas — Agricultural Intelligence**  
-React Native · Offline-First · GIS · Crop Management · Satellite Data · AI
-
-**💰 Digital Assets Application**  
-React Native · 50+ Screens · Cryptocurrency · Real-Time APIs · Transactions
-
-**🏛️ Government Digital Services**  
-React Native · NestJS · PostgreSQL · Role-Based Access · Socket.io
-
-**💱 Currency Exchange Application**  
-React Native · Currency Exchange · Payments · Local Transfers
-
----
-
-## 🤝 Connect
-
-📍 Hyderabad, India
-
-🔗 [LinkedIn](https://linkedin.com/in/vikash-chandra-a7362917a/)
-
-💻 [GitHub](https://github.com/vikashchandra458)
-
-🌐 [Portfolio](https://resume-vikash.netlify.app/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
