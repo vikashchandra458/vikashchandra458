@@ -84,12 +84,17 @@ React Native · Currency Exchange · Payments · Local Transfers
 🌐 [Portfolio](https://resume-vikash.netlify.app/)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikashchandra458&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=vikashchandra458&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashchandra458&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=vikashchandra458&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-![](https://github-readme-stats.shion.dev/api?username=vikashchandra458&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vikashchandra458&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikashchandra458&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**📊 GitHub Activity**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikashchandra458&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashchandra458&layout=compact&hide_border=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vikashchandra458&hide_border=true&theme=dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikashchandra458&theme=github-compact&hide_border=true&area=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=vikashchandra458&icon=0&color=0)](https://visitcount.itsvg.in)
